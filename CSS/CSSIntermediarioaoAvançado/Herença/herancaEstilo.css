@@ -1,0 +1,33 @@
+/*body {
+    color: red;
+    font-size: 16px;
+    /*border: blue 1px solid;
+}
+*/
+/*
+/*especificidade
+p {
+    color: blue !important;/*Não deve usar o important com frequencia
+}
+/* no caso de dois seletores iguais sempre a ultima regra que e aplicada
+p{
+    color: red;
+}
+*/
+/*
+*{
+    color: red;
+}
+
+h2{
+    color: blue;
+}
+
+h2.verde{/*2
+    color: green;
+}
+
+h2#amarelo{/*id 
+    color: yellow;
+}
+*/
